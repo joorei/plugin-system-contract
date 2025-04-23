@@ -1,0 +1,12 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>plugin-system-contract</artifactId>
+	<version>1.0.0</version>
+	<name>plugin-system-contract</name>
+	<description>Defines an API and tooling implementations can use to provide a plugin system.</description>
+	<parent>
+		<groupId>org.codeturnery</groupId>
+		<artifactId>common-java-project-pom</artifactId>
+		<version>1.0.4</version>
+	</parent>
+</project>
